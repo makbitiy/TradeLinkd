@@ -1,0 +1,7 @@
+node_modules/
+.env
+db/homeconnect.db
+db/homeconnect.db-shm
+db/homeconnect.db-wal
+uploads/*
+!uploads/.gitkeep
